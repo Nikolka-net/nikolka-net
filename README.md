@@ -1,7 +1,7 @@
 
 [![Header](https://github.com/Nikolka-net/nikolka-net/blob/main/assets/header.jpg)](https://vk.com/web.step)
 
-About me
+## I’m beginner web developer
 
 Latest YouTube videos
 
