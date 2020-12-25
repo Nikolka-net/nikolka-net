@@ -14,7 +14,7 @@
 ![Visual Stidio Code](https://img.shields.io/badge/-Visual_SC-003f5c?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSIyNHB4IiBoZWlnaHQ9IjI0cHgiPjxwYXRoIGZpbGw9IiM2YTFiOWEiIGQ9Ik0zNiw1TDE3LDIxLjVMNywxNGwtMywxLjI1djE3LjVMNywzNGwxMC03LjVMMzYsNDNsOC0zVjhMMzYsNXogTTgsMjBsNSw0bC01LDRWMjB6IE0yNCwyNGwxMC03djE0IEwyNCwyNHoiLz48L3N2Zz4%3D)
 ![Figma](https://img.shields.io/badge/-Figma-003f5c?style=for-the-badge&logo=figma)
 
-### Follow me
+### Write me
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/web.step)
 [![Facebook](https://img.shields.io/badge/-Facebook-003f5c?style=for-the-badge&logo=Facebook)](https://www.facebook.com/Nikolo.Jan)
 [![websteps@yandex.ru](https://img.shields.io/badge/-websteps@yandex.ru-003f5c?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAYAAABWdVznAAAABmJLR0QA%2FwD%2FAP%2BgvaeTAAABhklEQVQokZXSv2tTYRTG8e97b%2FT20qk1baAE7dRCpSBaCSqiIDgZsrh0Kjh069CiCBWdVJyu%2F4FrwUXx16TBgBTUkEFFoV1aQoOl1raYVO99z%2FseByFUOvXZnuGznPPAAWP2lmq5UxH1s%2BJ0woniRD%2BK98nVWv%2FzfeBNpf1AnL8ZH8%2FoGwsJDhs2v1paNYNKcH9ysf9WF1TLnYpV9%2FTYlEcyZeVZSrYL%2BVJI8VzEu%2FnfSBqUrzUGXgQAon42GkkJewxrry3jM72MTUf0FgytekrxskGczgH8A05PHTmRo1nNGJ2KaTxs03ybocaw3hD6RnJ40YkucKIEEUimxPmQ3Q1DXAjIfik9BcNOUxDxuhfUf3wWBks5ll91KN2J0dAzfCnm6IWIb49TxPk6QA5AvE9aNS4OnQ%2F5s%2BN5n7RJt6G5uMXmlwDnQqz1yX9nXTj7814mdn7wjJIfP0QQwfdPKUtPFGfN3eurQ7f3Pe7RyY0r4nTOi54W8YjzH6zV5MZq8eVBF9HNX1RZvo%2BCmnjWAAAAAElFTkSuQmCC)](https://mail.yandex.ru)
